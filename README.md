@@ -1,3 +1,3 @@
 ## Hi there, I'm Shania!🖥🛡
-
-I'm a current CS student in my final year of school. 
+ * **Resides in:** *South Africa.*
+ * **Highest earned Degree:** *BsC in Computer Science.*
